@@ -1,0 +1,527 @@
+[
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530866912019,
+            "changeTime": 1530866912019,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530866912020,
+            "changeTime": 1530866912020,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530866912022,
+            "changeTime": 1530866912022,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530867829046,
+            "changeTime": 1530867829046,
+            "contentHash": "9bc881e80345b892e0143da85674db08d0116c64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530867781703,
+            "changeTime": 1530867781703,
+            "contentHash": "00f9ba9f899b44dda60b00285f637aca8377c60b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1530867781694,
+            "changeTime": 1530867781694,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 849,
+            "modifiedTime": 1530867792239,
+            "changeTime": 1530867792239,
+            "contentHash": "f459c652af2a3b4b125632c5d2cba3a1cfdda555",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1530867781655,
+            "changeTime": 1530867781655,
+            "contentHash": "ad87208ffaea76ec91f317e3d5d806d2d509d13d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1530867781669,
+            "changeTime": 1530867781669,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1530867781707,
+            "changeTime": 1530867781707,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEdit.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1530867781690,
+            "changeTime": 1530867781690,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1530867781660,
+            "changeTime": 1530867781660,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1530867781663,
+            "changeTime": 1530867781663,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactEdit\\quickContactEditRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1530867781681,
+            "changeTime": 1530867781681,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530867714184,
+            "changeTime": 1530867714184,
+            "contentHash": "73fe0c92c7485bfd6b41a5c77fcf9ccd139275eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1530867714178,
+            "changeTime": 1530867714178,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 701,
+            "modifiedTime": 1530867724280,
+            "changeTime": 1530867724280,
+            "contentHash": "b6edae34c6e18b8ba4bb194610f81d1015ba1699",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1530867714145,
+            "changeTime": 1530867714145,
+            "contentHash": "ae2544b4b17da9c03ce791fe2b29a2255e38b512",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1530867714160,
+            "changeTime": 1530867714160,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1530867714185,
+            "changeTime": 1530867714185,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactView.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1530867714172,
+            "changeTime": 1530867714172,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1530867714152,
+            "changeTime": 1530867714152,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1530867714155,
+            "changeTime": 1530867714155,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactView\\quickContactViewRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1530867714164,
+            "changeTime": 1530867714164,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530867829074,
+            "changeTime": 1530867829074,
+            "contentHash": "da50f9eb6cbc0f4491efea8bcc991ef6a3801fda",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1530867829071,
+            "changeTime": 1530867829071,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1055,
+            "modifiedTime": 1530867852775,
+            "changeTime": 1530867852775,
+            "contentHash": "098212e9ea6e413a7a9101746c343532b1f6d8f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1530867829052,
+            "changeTime": 1530867829052,
+            "contentHash": "54fa2e73c3c25766eff4592a4e1b22f3c43a519d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1530867829062,
+            "changeTime": 1530867829062,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1530867829075,
+            "changeTime": 1530867829075,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEdit.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1530867829068,
+            "changeTime": 1530867829068,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 132,
+            "modifiedTime": 1530867866369,
+            "changeTime": 1530867866369,
+            "contentHash": "56dcb0350b9d63f24803e671caf850a8c2d250b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1530867829058,
+            "changeTime": 1530867829058,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX\\force-app\\main\\default\\aura\\quickContactViewEdit\\quickContactViewEditRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1530867829065,
+            "changeTime": 1530867829065,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ashutjha\\Documents\\training\\LCwiithDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530867901328,
+            "changeTime": 1530867901328,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
